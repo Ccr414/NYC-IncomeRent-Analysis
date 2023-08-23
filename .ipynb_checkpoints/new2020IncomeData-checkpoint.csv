@@ -1,0 +1,1657 @@
+Label (Grouping),L,a,b,e,l, ,(,G,r,o,u,p,i,n,g,)
+10001 Households Estimate,1,0,0,0,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10001 Households Margin of Error,1,0,0,0,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10001 Families Estimate,1,0,0,0,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10001 Families Margin of Error,1,0,0,0,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10001 Married-couple families Estimate,1,0,0,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10001 Married-couple families Margin of Error,1,0,0,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10001 Nonfamily households Estimate,1,0,0,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10001 Nonfamily households Margin of Error,1,0,0,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10002 Households Estimate,1,0,0,0,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10002 Households Margin of Error,1,0,0,0,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10002 Families Estimate,1,0,0,0,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10002 Families Margin of Error,1,0,0,0,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10002 Married-couple families Estimate,1,0,0,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10002 Married-couple families Margin of Error,1,0,0,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10002 Nonfamily households Estimate,1,0,0,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10002 Nonfamily households Margin of Error,1,0,0,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10003 Households Estimate,1,0,0,0,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10003 Households Margin of Error,1,0,0,0,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10003 Families Estimate,1,0,0,0,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10003 Families Margin of Error,1,0,0,0,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10003 Married-couple families Estimate,1,0,0,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10003 Married-couple families Margin of Error,1,0,0,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10003 Nonfamily households Estimate,1,0,0,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10003 Nonfamily households Margin of Error,1,0,0,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10004 Households Estimate,1,0,0,0,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10004 Households Margin of Error,1,0,0,0,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10004 Families Estimate,1,0,0,0,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10004 Families Margin of Error,1,0,0,0,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10004 Married-couple families Estimate,1,0,0,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10004 Married-couple families Margin of Error,1,0,0,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10004 Nonfamily households Estimate,1,0,0,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10004 Nonfamily households Margin of Error,1,0,0,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10005 Households Estimate,1,0,0,0,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10005 Households Margin of Error,1,0,0,0,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10005 Families Estimate,1,0,0,0,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10005 Families Margin of Error,1,0,0,0,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10005 Married-couple families Estimate,1,0,0,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10005 Married-couple families Margin of Error,1,0,0,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10005 Nonfamily households Estimate,1,0,0,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10005 Nonfamily households Margin of Error,1,0,0,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10006 Households Estimate,1,0,0,0,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10006 Households Margin of Error,1,0,0,0,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10006 Families Estimate,1,0,0,0,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10006 Families Margin of Error,1,0,0,0,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10006 Married-couple families Estimate,1,0,0,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10006 Married-couple families Margin of Error,1,0,0,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10006 Nonfamily households Estimate,1,0,0,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10006 Nonfamily households Margin of Error,1,0,0,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10007 Households Estimate,1,0,0,0,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10007 Households Margin of Error,1,0,0,0,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10007 Families Estimate,1,0,0,0,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10007 Families Margin of Error,1,0,0,0,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10007 Married-couple families Estimate,1,0,0,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10007 Married-couple families Margin of Error,1,0,0,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10007 Nonfamily households Estimate,1,0,0,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10007 Nonfamily households Margin of Error,1,0,0,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10009 Households Estimate,1,0,0,0,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10009 Households Margin of Error,1,0,0,0,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10009 Families Estimate,1,0,0,0,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10009 Families Margin of Error,1,0,0,0,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10009 Married-couple families Estimate,1,0,0,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10009 Married-couple families Margin of Error,1,0,0,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10009 Nonfamily households Estimate,1,0,0,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10009 Nonfamily households Margin of Error,1,0,0,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10010 Households Estimate,1,0,0,1,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10010 Households Margin of Error,1,0,0,1,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10010 Families Estimate,1,0,0,1,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10010 Families Margin of Error,1,0,0,1,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10010 Married-couple families Estimate,1,0,0,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10010 Married-couple families Margin of Error,1,0,0,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10010 Nonfamily households Estimate,1,0,0,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10010 Nonfamily households Margin of Error,1,0,0,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10011 Households Estimate,1,0,0,1,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10011 Households Margin of Error,1,0,0,1,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10011 Families Estimate,1,0,0,1,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10011 Families Margin of Error,1,0,0,1,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10011 Married-couple families Estimate,1,0,0,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10011 Married-couple families Margin of Error,1,0,0,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10011 Nonfamily households Estimate,1,0,0,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10011 Nonfamily households Margin of Error,1,0,0,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10012 Households Estimate,1,0,0,1,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10012 Households Margin of Error,1,0,0,1,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10012 Families Estimate,1,0,0,1,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10012 Families Margin of Error,1,0,0,1,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10012 Married-couple families Estimate,1,0,0,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10012 Married-couple families Margin of Error,1,0,0,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10012 Nonfamily households Estimate,1,0,0,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10012 Nonfamily households Margin of Error,1,0,0,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10013 Households Estimate,1,0,0,1,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10013 Households Margin of Error,1,0,0,1,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10013 Families Estimate,1,0,0,1,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10013 Families Margin of Error,1,0,0,1,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10013 Married-couple families Estimate,1,0,0,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10013 Married-couple families Margin of Error,1,0,0,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10013 Nonfamily households Estimate,1,0,0,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10013 Nonfamily households Margin of Error,1,0,0,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10014 Households Estimate,1,0,0,1,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10014 Households Margin of Error,1,0,0,1,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10014 Families Estimate,1,0,0,1,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10014 Families Margin of Error,1,0,0,1,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10014 Married-couple families Estimate,1,0,0,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10014 Married-couple families Margin of Error,1,0,0,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10014 Nonfamily households Estimate,1,0,0,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10014 Nonfamily households Margin of Error,1,0,0,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10016 Households Estimate,1,0,0,1,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10016 Households Margin of Error,1,0,0,1,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10016 Families Estimate,1,0,0,1,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10016 Families Margin of Error,1,0,0,1,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10016 Married-couple families Estimate,1,0,0,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10016 Married-couple families Margin of Error,1,0,0,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10016 Nonfamily households Estimate,1,0,0,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10016 Nonfamily households Margin of Error,1,0,0,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10017 Households Estimate,1,0,0,1,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10017 Households Margin of Error,1,0,0,1,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10017 Families Estimate,1,0,0,1,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10017 Families Margin of Error,1,0,0,1,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10017 Married-couple families Estimate,1,0,0,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10017 Married-couple families Margin of Error,1,0,0,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10017 Nonfamily households Estimate,1,0,0,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10017 Nonfamily households Margin of Error,1,0,0,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10018 Households Estimate,1,0,0,1,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10018 Households Margin of Error,1,0,0,1,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10018 Families Estimate,1,0,0,1,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10018 Families Margin of Error,1,0,0,1,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10018 Married-couple families Estimate,1,0,0,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10018 Married-couple families Margin of Error,1,0,0,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10018 Nonfamily households Estimate,1,0,0,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10018 Nonfamily households Margin of Error,1,0,0,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10019 Households Estimate,1,0,0,1,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10019 Households Margin of Error,1,0,0,1,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10019 Families Estimate,1,0,0,1,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10019 Families Margin of Error,1,0,0,1,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10019 Married-couple families Estimate,1,0,0,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10019 Married-couple families Margin of Error,1,0,0,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10019 Nonfamily households Estimate,1,0,0,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10019 Nonfamily households Margin of Error,1,0,0,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10020 Households Estimate,1,0,0,2,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10020 Households Margin of Error,1,0,0,2,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10020 Families Estimate,1,0,0,2,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10020 Families Margin of Error,1,0,0,2,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10020 Married-couple families Estimate,1,0,0,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10020 Married-couple families Margin of Error,1,0,0,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10020 Nonfamily households Estimate,1,0,0,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10020 Nonfamily households Margin of Error,1,0,0,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10021 Households Estimate,1,0,0,2,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10021 Households Margin of Error,1,0,0,2,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10021 Families Estimate,1,0,0,2,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10021 Families Margin of Error,1,0,0,2,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10021 Married-couple families Estimate,1,0,0,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10021 Married-couple families Margin of Error,1,0,0,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10021 Nonfamily households Estimate,1,0,0,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10021 Nonfamily households Margin of Error,1,0,0,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10022 Households Estimate,1,0,0,2,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10022 Households Margin of Error,1,0,0,2,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10022 Families Estimate,1,0,0,2,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10022 Families Margin of Error,1,0,0,2,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10022 Married-couple families Estimate,1,0,0,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10022 Married-couple families Margin of Error,1,0,0,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10022 Nonfamily households Estimate,1,0,0,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10022 Nonfamily households Margin of Error,1,0,0,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10023 Households Estimate,1,0,0,2,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10023 Households Margin of Error,1,0,0,2,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10023 Families Estimate,1,0,0,2,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10023 Families Margin of Error,1,0,0,2,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10023 Married-couple families Estimate,1,0,0,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10023 Married-couple families Margin of Error,1,0,0,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10023 Nonfamily households Estimate,1,0,0,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10023 Nonfamily households Margin of Error,1,0,0,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10024 Households Estimate,1,0,0,2,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10024 Households Margin of Error,1,0,0,2,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10024 Families Estimate,1,0,0,2,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10024 Families Margin of Error,1,0,0,2,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10024 Married-couple families Estimate,1,0,0,2,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10024 Married-couple families Margin of Error,1,0,0,2,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10024 Nonfamily households Estimate,1,0,0,2,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10024 Nonfamily households Margin of Error,1,0,0,2,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10025 Households Estimate,1,0,0,2,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10025 Households Margin of Error,1,0,0,2,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10025 Families Estimate,1,0,0,2,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10025 Families Margin of Error,1,0,0,2,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10025 Married-couple families Estimate,1,0,0,2,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10025 Married-couple families Margin of Error,1,0,0,2,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10025 Nonfamily households Estimate,1,0,0,2,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10025 Nonfamily households Margin of Error,1,0,0,2,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10026 Households Estimate,1,0,0,2,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10026 Households Margin of Error,1,0,0,2,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10026 Families Estimate,1,0,0,2,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10026 Families Margin of Error,1,0,0,2,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10026 Married-couple families Estimate,1,0,0,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10026 Married-couple families Margin of Error,1,0,0,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10026 Nonfamily households Estimate,1,0,0,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10026 Nonfamily households Margin of Error,1,0,0,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10027 Households Estimate,1,0,0,2,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10027 Households Margin of Error,1,0,0,2,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10027 Families Estimate,1,0,0,2,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10027 Families Margin of Error,1,0,0,2,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10027 Married-couple families Estimate,1,0,0,2,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10027 Married-couple families Margin of Error,1,0,0,2,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10027 Nonfamily households Estimate,1,0,0,2,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10027 Nonfamily households Margin of Error,1,0,0,2,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10028 Households Estimate,1,0,0,2,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10028 Households Margin of Error,1,0,0,2,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10028 Families Estimate,1,0,0,2,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10028 Families Margin of Error,1,0,0,2,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10028 Married-couple families Estimate,1,0,0,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10028 Married-couple families Margin of Error,1,0,0,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10028 Nonfamily households Estimate,1,0,0,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10028 Nonfamily households Margin of Error,1,0,0,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10029 Households Estimate,1,0,0,2,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10029 Households Margin of Error,1,0,0,2,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10029 Families Estimate,1,0,0,2,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10029 Families Margin of Error,1,0,0,2,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10029 Married-couple families Estimate,1,0,0,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10029 Married-couple families Margin of Error,1,0,0,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10029 Nonfamily households Estimate,1,0,0,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10029 Nonfamily households Margin of Error,1,0,0,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10030 Households Estimate,1,0,0,3,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10030 Households Margin of Error,1,0,0,3,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10030 Families Estimate,1,0,0,3,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10030 Families Margin of Error,1,0,0,3,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10030 Married-couple families Estimate,1,0,0,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10030 Married-couple families Margin of Error,1,0,0,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10030 Nonfamily households Estimate,1,0,0,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10030 Nonfamily households Margin of Error,1,0,0,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10031 Households Estimate,1,0,0,3,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10031 Households Margin of Error,1,0,0,3,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10031 Families Estimate,1,0,0,3,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10031 Families Margin of Error,1,0,0,3,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10031 Married-couple families Estimate,1,0,0,3,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10031 Married-couple families Margin of Error,1,0,0,3,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10031 Nonfamily households Estimate,1,0,0,3,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10031 Nonfamily households Margin of Error,1,0,0,3,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10032 Households Estimate,1,0,0,3,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10032 Households Margin of Error,1,0,0,3,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10032 Families Estimate,1,0,0,3,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10032 Families Margin of Error,1,0,0,3,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10032 Married-couple families Estimate,1,0,0,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10032 Married-couple families Margin of Error,1,0,0,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10032 Nonfamily households Estimate,1,0,0,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10032 Nonfamily households Margin of Error,1,0,0,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10033 Households Estimate,1,0,0,3,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10033 Households Margin of Error,1,0,0,3,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10033 Families Estimate,1,0,0,3,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10033 Families Margin of Error,1,0,0,3,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10033 Married-couple families Estimate,1,0,0,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10033 Married-couple families Margin of Error,1,0,0,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10033 Nonfamily households Estimate,1,0,0,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10033 Nonfamily households Margin of Error,1,0,0,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10034 Households Estimate,1,0,0,3,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10034 Households Margin of Error,1,0,0,3,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10034 Families Estimate,1,0,0,3,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10034 Families Margin of Error,1,0,0,3,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10034 Married-couple families Estimate,1,0,0,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10034 Married-couple families Margin of Error,1,0,0,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10034 Nonfamily households Estimate,1,0,0,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10034 Nonfamily households Margin of Error,1,0,0,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10035 Households Estimate,1,0,0,3,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10035 Households Margin of Error,1,0,0,3,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10035 Families Estimate,1,0,0,3,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10035 Families Margin of Error,1,0,0,3,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10035 Married-couple families Estimate,1,0,0,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10035 Married-couple families Margin of Error,1,0,0,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10035 Nonfamily households Estimate,1,0,0,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10035 Nonfamily households Margin of Error,1,0,0,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10036 Households Estimate,1,0,0,3,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10036 Households Margin of Error,1,0,0,3,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10036 Families Estimate,1,0,0,3,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10036 Families Margin of Error,1,0,0,3,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10036 Married-couple families Estimate,1,0,0,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10036 Married-couple families Margin of Error,1,0,0,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10036 Nonfamily households Estimate,1,0,0,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10036 Nonfamily households Margin of Error,1,0,0,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10037 Households Estimate,1,0,0,3,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10037 Households Margin of Error,1,0,0,3,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10037 Families Estimate,1,0,0,3,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10037 Families Margin of Error,1,0,0,3,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10037 Married-couple families Estimate,1,0,0,3,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10037 Married-couple families Margin of Error,1,0,0,3,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10037 Nonfamily households Estimate,1,0,0,3,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10037 Nonfamily households Margin of Error,1,0,0,3,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10038 Households Estimate,1,0,0,3,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10038 Households Margin of Error,1,0,0,3,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10038 Families Estimate,1,0,0,3,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10038 Families Margin of Error,1,0,0,3,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10038 Married-couple families Estimate,1,0,0,3,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10038 Married-couple families Margin of Error,1,0,0,3,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10038 Nonfamily households Estimate,1,0,0,3,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10038 Nonfamily households Margin of Error,1,0,0,3,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10039 Households Estimate,1,0,0,3,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10039 Households Margin of Error,1,0,0,3,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10039 Families Estimate,1,0,0,3,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10039 Families Margin of Error,1,0,0,3,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10039 Married-couple families Estimate,1,0,0,3,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10039 Married-couple families Margin of Error,1,0,0,3,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10039 Nonfamily households Estimate,1,0,0,3,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10039 Nonfamily households Margin of Error,1,0,0,3,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10040 Households Estimate,1,0,0,4,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10040 Households Margin of Error,1,0,0,4,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10040 Families Estimate,1,0,0,4,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10040 Families Margin of Error,1,0,0,4,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10040 Married-couple families Estimate,1,0,0,4,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10040 Married-couple families Margin of Error,1,0,0,4,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10040 Nonfamily households Estimate,1,0,0,4,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10040 Nonfamily households Margin of Error,1,0,0,4,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10044 Households Estimate,1,0,0,4,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10044 Households Margin of Error,1,0,0,4,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10044 Families Estimate,1,0,0,4,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10044 Families Margin of Error,1,0,0,4,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10044 Married-couple families Estimate,1,0,0,4,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10044 Married-couple families Margin of Error,1,0,0,4,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10044 Nonfamily households Estimate,1,0,0,4,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10044 Nonfamily households Margin of Error,1,0,0,4,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10065 Households Estimate,1,0,0,6,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10065 Households Margin of Error,1,0,0,6,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10065 Families Estimate,1,0,0,6,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10065 Families Margin of Error,1,0,0,6,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10065 Married-couple families Estimate,1,0,0,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10065 Married-couple families Margin of Error,1,0,0,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10065 Nonfamily households Estimate,1,0,0,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10065 Nonfamily households Margin of Error,1,0,0,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10069 Households Estimate,1,0,0,6,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10069 Households Margin of Error,1,0,0,6,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10069 Families Estimate,1,0,0,6,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10069 Families Margin of Error,1,0,0,6,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10069 Married-couple families Estimate,1,0,0,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10069 Married-couple families Margin of Error,1,0,0,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10069 Nonfamily households Estimate,1,0,0,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10069 Nonfamily households Margin of Error,1,0,0,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10075 Households Estimate,1,0,0,7,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10075 Households Margin of Error,1,0,0,7,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10075 Families Estimate,1,0,0,7,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10075 Families Margin of Error,1,0,0,7,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10075 Married-couple families Estimate,1,0,0,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10075 Married-couple families Margin of Error,1,0,0,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10075 Nonfamily households Estimate,1,0,0,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10075 Nonfamily households Margin of Error,1,0,0,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10103 Households Estimate,1,0,1,0,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10103 Households Margin of Error,1,0,1,0,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10103 Families Estimate,1,0,1,0,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10103 Families Margin of Error,1,0,1,0,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10103 Married-couple families Estimate,1,0,1,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10103 Married-couple families Margin of Error,1,0,1,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10103 Nonfamily households Estimate,1,0,1,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10103 Nonfamily households Margin of Error,1,0,1,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10110 Households Estimate,1,0,1,1,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10110 Households Margin of Error,1,0,1,1,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10110 Families Estimate,1,0,1,1,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10110 Families Margin of Error,1,0,1,1,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10110 Married-couple families Estimate,1,0,1,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10110 Married-couple families Margin of Error,1,0,1,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10110 Nonfamily households Estimate,1,0,1,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10110 Nonfamily households Margin of Error,1,0,1,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10111 Households Estimate,1,0,1,1,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10111 Households Margin of Error,1,0,1,1,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10111 Families Estimate,1,0,1,1,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10111 Families Margin of Error,1,0,1,1,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10111 Married-couple families Estimate,1,0,1,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10111 Married-couple families Margin of Error,1,0,1,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10111 Nonfamily households Estimate,1,0,1,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10111 Nonfamily households Margin of Error,1,0,1,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10112 Households Estimate,1,0,1,1,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10112 Households Margin of Error,1,0,1,1,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10112 Families Estimate,1,0,1,1,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10112 Families Margin of Error,1,0,1,1,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10112 Married-couple families Estimate,1,0,1,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10112 Married-couple families Margin of Error,1,0,1,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10112 Nonfamily households Estimate,1,0,1,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10112 Nonfamily households Margin of Error,1,0,1,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10115 Households Estimate,1,0,1,1,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10115 Households Margin of Error,1,0,1,1,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10115 Families Estimate,1,0,1,1,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10115 Families Margin of Error,1,0,1,1,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10115 Married-couple families Estimate,1,0,1,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10115 Married-couple families Margin of Error,1,0,1,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10115 Nonfamily households Estimate,1,0,1,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10115 Nonfamily households Margin of Error,1,0,1,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10119 Households Estimate,1,0,1,1,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10119 Households Margin of Error,1,0,1,1,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10119 Families Estimate,1,0,1,1,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10119 Families Margin of Error,1,0,1,1,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10119 Married-couple families Estimate,1,0,1,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10119 Married-couple families Margin of Error,1,0,1,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10119 Nonfamily households Estimate,1,0,1,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10119 Nonfamily households Margin of Error,1,0,1,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10128 Households Estimate,1,0,1,2,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10128 Households Margin of Error,1,0,1,2,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10128 Families Estimate,1,0,1,2,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10128 Families Margin of Error,1,0,1,2,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10128 Married-couple families Estimate,1,0,1,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10128 Married-couple families Margin of Error,1,0,1,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10128 Nonfamily households Estimate,1,0,1,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10128 Nonfamily households Margin of Error,1,0,1,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10152 Households Estimate,1,0,1,5,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10152 Households Margin of Error,1,0,1,5,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10152 Families Estimate,1,0,1,5,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10152 Families Margin of Error,1,0,1,5,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10152 Married-couple families Estimate,1,0,1,5,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10152 Married-couple families Margin of Error,1,0,1,5,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10152 Nonfamily households Estimate,1,0,1,5,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10152 Nonfamily households Margin of Error,1,0,1,5,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10153 Households Estimate,1,0,1,5,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10153 Households Margin of Error,1,0,1,5,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10153 Families Estimate,1,0,1,5,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10153 Families Margin of Error,1,0,1,5,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10153 Married-couple families Estimate,1,0,1,5,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10153 Married-couple families Margin of Error,1,0,1,5,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10153 Nonfamily households Estimate,1,0,1,5,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10153 Nonfamily households Margin of Error,1,0,1,5,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10154 Households Estimate,1,0,1,5,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10154 Households Margin of Error,1,0,1,5,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10154 Families Estimate,1,0,1,5,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10154 Families Margin of Error,1,0,1,5,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10154 Married-couple families Estimate,1,0,1,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10154 Married-couple families Margin of Error,1,0,1,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10154 Nonfamily households Estimate,1,0,1,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10154 Nonfamily households Margin of Error,1,0,1,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10162 Households Estimate,1,0,1,6,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10162 Households Margin of Error,1,0,1,6,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10162 Families Estimate,1,0,1,6,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10162 Families Margin of Error,1,0,1,6,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10162 Married-couple families Estimate,1,0,1,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10162 Married-couple families Margin of Error,1,0,1,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10162 Nonfamily households Estimate,1,0,1,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10162 Nonfamily households Margin of Error,1,0,1,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10165 Households Estimate,1,0,1,6,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10165 Households Margin of Error,1,0,1,6,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10165 Families Estimate,1,0,1,6,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10165 Families Margin of Error,1,0,1,6,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10165 Married-couple families Estimate,1,0,1,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10165 Married-couple families Margin of Error,1,0,1,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10165 Nonfamily households Estimate,1,0,1,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10165 Nonfamily households Margin of Error,1,0,1,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10167 Households Estimate,1,0,1,6,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10167 Households Margin of Error,1,0,1,6,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10167 Families Estimate,1,0,1,6,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10167 Families Margin of Error,1,0,1,6,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10167 Married-couple families Estimate,1,0,1,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10167 Married-couple families Margin of Error,1,0,1,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10167 Nonfamily households Estimate,1,0,1,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10167 Nonfamily households Margin of Error,1,0,1,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10168 Households Estimate,1,0,1,6,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10168 Households Margin of Error,1,0,1,6,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10168 Families Estimate,1,0,1,6,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10168 Families Margin of Error,1,0,1,6,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10168 Married-couple families Estimate,1,0,1,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10168 Married-couple families Margin of Error,1,0,1,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10168 Nonfamily households Estimate,1,0,1,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10168 Nonfamily households Margin of Error,1,0,1,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10169 Households Estimate,1,0,1,6,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10169 Households Margin of Error,1,0,1,6,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10169 Families Estimate,1,0,1,6,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10169 Families Margin of Error,1,0,1,6,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10169 Married-couple families Estimate,1,0,1,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10169 Married-couple families Margin of Error,1,0,1,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10169 Nonfamily households Estimate,1,0,1,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10169 Nonfamily households Margin of Error,1,0,1,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10170 Households Estimate,1,0,1,7,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10170 Households Margin of Error,1,0,1,7,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10170 Families Estimate,1,0,1,7,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10170 Families Margin of Error,1,0,1,7,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10170 Married-couple families Estimate,1,0,1,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10170 Married-couple families Margin of Error,1,0,1,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10170 Nonfamily households Estimate,1,0,1,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10170 Nonfamily households Margin of Error,1,0,1,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10171 Households Estimate,1,0,1,7,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10171 Households Margin of Error,1,0,1,7,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10171 Families Estimate,1,0,1,7,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10171 Families Margin of Error,1,0,1,7,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10171 Married-couple families Estimate,1,0,1,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10171 Married-couple families Margin of Error,1,0,1,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10171 Nonfamily households Estimate,1,0,1,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10171 Nonfamily households Margin of Error,1,0,1,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10172 Households Estimate,1,0,1,7,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10172 Households Margin of Error,1,0,1,7,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10172 Families Estimate,1,0,1,7,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10172 Families Margin of Error,1,0,1,7,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10172 Married-couple families Estimate,1,0,1,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10172 Married-couple families Margin of Error,1,0,1,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10172 Nonfamily households Estimate,1,0,1,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10172 Nonfamily households Margin of Error,1,0,1,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10173 Households Estimate,1,0,1,7,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10173 Households Margin of Error,1,0,1,7,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10173 Families Estimate,1,0,1,7,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10173 Families Margin of Error,1,0,1,7,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10173 Married-couple families Estimate,1,0,1,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10173 Married-couple families Margin of Error,1,0,1,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10173 Nonfamily households Estimate,1,0,1,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10173 Nonfamily households Margin of Error,1,0,1,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10174 Households Estimate,1,0,1,7,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10174 Households Margin of Error,1,0,1,7,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10174 Families Estimate,1,0,1,7,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10174 Families Margin of Error,1,0,1,7,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10174 Married-couple families Estimate,1,0,1,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10174 Married-couple families Margin of Error,1,0,1,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10174 Nonfamily households Estimate,1,0,1,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10174 Nonfamily households Margin of Error,1,0,1,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10177 Households Estimate,1,0,1,7,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10177 Households Margin of Error,1,0,1,7,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10177 Families Estimate,1,0,1,7,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10177 Families Margin of Error,1,0,1,7,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10177 Married-couple families Estimate,1,0,1,7,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10177 Married-couple families Margin of Error,1,0,1,7,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10177 Nonfamily households Estimate,1,0,1,7,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10177 Nonfamily households Margin of Error,1,0,1,7,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10199 Households Estimate,1,0,1,9,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10199 Households Margin of Error,1,0,1,9,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10199 Families Estimate,1,0,1,9,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10199 Families Margin of Error,1,0,1,9,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10199 Married-couple families Estimate,1,0,1,9,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10199 Married-couple families Margin of Error,1,0,1,9,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10199 Nonfamily households Estimate,1,0,1,9,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10199 Nonfamily households Margin of Error,1,0,1,9,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10271 Households Estimate,1,0,2,7,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10271 Households Margin of Error,1,0,2,7,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10271 Families Estimate,1,0,2,7,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10271 Families Margin of Error,1,0,2,7,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10271 Married-couple families Estimate,1,0,2,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10271 Married-couple families Margin of Error,1,0,2,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10271 Nonfamily households Estimate,1,0,2,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10271 Nonfamily households Margin of Error,1,0,2,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10278 Households Estimate,1,0,2,7,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10278 Households Margin of Error,1,0,2,7,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10278 Families Estimate,1,0,2,7,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10278 Families Margin of Error,1,0,2,7,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10278 Married-couple families Estimate,1,0,2,7,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10278 Married-couple families Margin of Error,1,0,2,7,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10278 Nonfamily households Estimate,1,0,2,7,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10278 Nonfamily households Margin of Error,1,0,2,7,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10279 Households Estimate,1,0,2,7,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10279 Households Margin of Error,1,0,2,7,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10279 Families Estimate,1,0,2,7,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10279 Families Margin of Error,1,0,2,7,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10279 Married-couple families Estimate,1,0,2,7,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10279 Married-couple families Margin of Error,1,0,2,7,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10279 Nonfamily households Estimate,1,0,2,7,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10279 Nonfamily households Margin of Error,1,0,2,7,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10280 Households Estimate,1,0,2,8,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10280 Households Margin of Error,1,0,2,8,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10280 Families Estimate,1,0,2,8,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10280 Families Margin of Error,1,0,2,8,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10280 Married-couple families Estimate,1,0,2,8,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10280 Married-couple families Margin of Error,1,0,2,8,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10280 Nonfamily households Estimate,1,0,2,8,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10280 Nonfamily households Margin of Error,1,0,2,8,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10282 Households Estimate,1,0,2,8,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10282 Households Margin of Error,1,0,2,8,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10282 Families Estimate,1,0,2,8,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10282 Families Margin of Error,1,0,2,8,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10282 Married-couple families Estimate,1,0,2,8,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10282 Married-couple families Margin of Error,1,0,2,8,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10282 Nonfamily households Estimate,1,0,2,8,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10282 Nonfamily households Margin of Error,1,0,2,8,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10301 Households Estimate,1,0,3,0,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10301 Households Margin of Error,1,0,3,0,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10301 Families Estimate,1,0,3,0,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10301 Families Margin of Error,1,0,3,0,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10301 Married-couple families Estimate,1,0,3,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10301 Married-couple families Margin of Error,1,0,3,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10301 Nonfamily households Estimate,1,0,3,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10301 Nonfamily households Margin of Error,1,0,3,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10302 Households Estimate,1,0,3,0,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10302 Households Margin of Error,1,0,3,0,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10302 Families Estimate,1,0,3,0,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10302 Families Margin of Error,1,0,3,0,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10302 Married-couple families Estimate,1,0,3,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10302 Married-couple families Margin of Error,1,0,3,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10302 Nonfamily households Estimate,1,0,3,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10302 Nonfamily households Margin of Error,1,0,3,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10303 Households Estimate,1,0,3,0,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10303 Households Margin of Error,1,0,3,0,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10303 Families Estimate,1,0,3,0,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10303 Families Margin of Error,1,0,3,0,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10303 Married-couple families Estimate,1,0,3,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10303 Married-couple families Margin of Error,1,0,3,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10303 Nonfamily households Estimate,1,0,3,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10303 Nonfamily households Margin of Error,1,0,3,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10304 Households Estimate,1,0,3,0,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10304 Households Margin of Error,1,0,3,0,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10304 Families Estimate,1,0,3,0,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10304 Families Margin of Error,1,0,3,0,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10304 Married-couple families Estimate,1,0,3,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10304 Married-couple families Margin of Error,1,0,3,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10304 Nonfamily households Estimate,1,0,3,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10304 Nonfamily households Margin of Error,1,0,3,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10305 Households Estimate,1,0,3,0,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10305 Households Margin of Error,1,0,3,0,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10305 Families Estimate,1,0,3,0,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10305 Families Margin of Error,1,0,3,0,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10305 Married-couple families Estimate,1,0,3,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10305 Married-couple families Margin of Error,1,0,3,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10305 Nonfamily households Estimate,1,0,3,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10305 Nonfamily households Margin of Error,1,0,3,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10306 Households Estimate,1,0,3,0,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10306 Households Margin of Error,1,0,3,0,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10306 Families Estimate,1,0,3,0,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10306 Families Margin of Error,1,0,3,0,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10306 Married-couple families Estimate,1,0,3,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10306 Married-couple families Margin of Error,1,0,3,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10306 Nonfamily households Estimate,1,0,3,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10306 Nonfamily households Margin of Error,1,0,3,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10307 Households Estimate,1,0,3,0,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10307 Households Margin of Error,1,0,3,0,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10307 Families Estimate,1,0,3,0,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10307 Families Margin of Error,1,0,3,0,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10307 Married-couple families Estimate,1,0,3,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10307 Married-couple families Margin of Error,1,0,3,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10307 Nonfamily households Estimate,1,0,3,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10307 Nonfamily households Margin of Error,1,0,3,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10308 Households Estimate,1,0,3,0,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10308 Households Margin of Error,1,0,3,0,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10308 Families Estimate,1,0,3,0,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10308 Families Margin of Error,1,0,3,0,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10308 Married-couple families Estimate,1,0,3,0,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10308 Married-couple families Margin of Error,1,0,3,0,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10308 Nonfamily households Estimate,1,0,3,0,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10308 Nonfamily households Margin of Error,1,0,3,0,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10309 Households Estimate,1,0,3,0,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10309 Households Margin of Error,1,0,3,0,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10309 Families Estimate,1,0,3,0,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10309 Families Margin of Error,1,0,3,0,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10309 Married-couple families Estimate,1,0,3,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10309 Married-couple families Margin of Error,1,0,3,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10309 Nonfamily households Estimate,1,0,3,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10309 Nonfamily households Margin of Error,1,0,3,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10310 Households Estimate,1,0,3,1,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10310 Households Margin of Error,1,0,3,1,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10310 Families Estimate,1,0,3,1,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10310 Families Margin of Error,1,0,3,1,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10310 Married-couple families Estimate,1,0,3,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10310 Married-couple families Margin of Error,1,0,3,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10310 Nonfamily households Estimate,1,0,3,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10310 Nonfamily households Margin of Error,1,0,3,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10311 Households Estimate,1,0,3,1,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10311 Households Margin of Error,1,0,3,1,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10311 Families Estimate,1,0,3,1,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10311 Families Margin of Error,1,0,3,1,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10311 Married-couple families Estimate,1,0,3,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10311 Married-couple families Margin of Error,1,0,3,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10311 Nonfamily households Estimate,1,0,3,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10311 Nonfamily households Margin of Error,1,0,3,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10312 Households Estimate,1,0,3,1,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10312 Households Margin of Error,1,0,3,1,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10312 Families Estimate,1,0,3,1,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10312 Families Margin of Error,1,0,3,1,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10312 Married-couple families Estimate,1,0,3,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10312 Married-couple families Margin of Error,1,0,3,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10312 Nonfamily households Estimate,1,0,3,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10312 Nonfamily households Margin of Error,1,0,3,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10314 Households Estimate,1,0,3,1,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10314 Households Margin of Error,1,0,3,1,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10314 Families Estimate,1,0,3,1,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10314 Families Margin of Error,1,0,3,1,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10314 Married-couple families Estimate,1,0,3,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10314 Married-couple families Margin of Error,1,0,3,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10314 Nonfamily households Estimate,1,0,3,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10314 Nonfamily households Margin of Error,1,0,3,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10451 Households Estimate,1,0,4,5,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10451 Households Margin of Error,1,0,4,5,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10451 Families Estimate,1,0,4,5,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10451 Families Margin of Error,1,0,4,5,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10451 Married-couple families Estimate,1,0,4,5,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10451 Married-couple families Margin of Error,1,0,4,5,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10451 Nonfamily households Estimate,1,0,4,5,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10451 Nonfamily households Margin of Error,1,0,4,5,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10452 Households Estimate,1,0,4,5,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10452 Households Margin of Error,1,0,4,5,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10452 Families Estimate,1,0,4,5,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10452 Families Margin of Error,1,0,4,5,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10452 Married-couple families Estimate,1,0,4,5,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10452 Married-couple families Margin of Error,1,0,4,5,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10452 Nonfamily households Estimate,1,0,4,5,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10452 Nonfamily households Margin of Error,1,0,4,5,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10453 Households Estimate,1,0,4,5,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10453 Households Margin of Error,1,0,4,5,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10453 Families Estimate,1,0,4,5,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10453 Families Margin of Error,1,0,4,5,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10453 Married-couple families Estimate,1,0,4,5,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10453 Married-couple families Margin of Error,1,0,4,5,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10453 Nonfamily households Estimate,1,0,4,5,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10453 Nonfamily households Margin of Error,1,0,4,5,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10454 Households Estimate,1,0,4,5,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10454 Households Margin of Error,1,0,4,5,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10454 Families Estimate,1,0,4,5,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10454 Families Margin of Error,1,0,4,5,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10454 Married-couple families Estimate,1,0,4,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10454 Married-couple families Margin of Error,1,0,4,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10454 Nonfamily households Estimate,1,0,4,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10454 Nonfamily households Margin of Error,1,0,4,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10455 Households Estimate,1,0,4,5,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10455 Households Margin of Error,1,0,4,5,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10455 Families Estimate,1,0,4,5,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10455 Families Margin of Error,1,0,4,5,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10455 Married-couple families Estimate,1,0,4,5,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10455 Married-couple families Margin of Error,1,0,4,5,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10455 Nonfamily households Estimate,1,0,4,5,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10455 Nonfamily households Margin of Error,1,0,4,5,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10456 Households Estimate,1,0,4,5,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10456 Households Margin of Error,1,0,4,5,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10456 Families Estimate,1,0,4,5,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10456 Families Margin of Error,1,0,4,5,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10456 Married-couple families Estimate,1,0,4,5,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10456 Married-couple families Margin of Error,1,0,4,5,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10456 Nonfamily households Estimate,1,0,4,5,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10456 Nonfamily households Margin of Error,1,0,4,5,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10457 Households Estimate,1,0,4,5,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10457 Households Margin of Error,1,0,4,5,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10457 Families Estimate,1,0,4,5,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10457 Families Margin of Error,1,0,4,5,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10457 Married-couple families Estimate,1,0,4,5,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10457 Married-couple families Margin of Error,1,0,4,5,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10457 Nonfamily households Estimate,1,0,4,5,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10457 Nonfamily households Margin of Error,1,0,4,5,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10458 Households Estimate,1,0,4,5,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10458 Households Margin of Error,1,0,4,5,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10458 Families Estimate,1,0,4,5,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10458 Families Margin of Error,1,0,4,5,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10458 Married-couple families Estimate,1,0,4,5,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10458 Married-couple families Margin of Error,1,0,4,5,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10458 Nonfamily households Estimate,1,0,4,5,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10458 Nonfamily households Margin of Error,1,0,4,5,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10459 Households Estimate,1,0,4,5,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10459 Households Margin of Error,1,0,4,5,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10459 Families Estimate,1,0,4,5,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10459 Families Margin of Error,1,0,4,5,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10459 Married-couple families Estimate,1,0,4,5,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10459 Married-couple families Margin of Error,1,0,4,5,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10459 Nonfamily households Estimate,1,0,4,5,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10459 Nonfamily households Margin of Error,1,0,4,5,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10460 Households Estimate,1,0,4,6,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10460 Households Margin of Error,1,0,4,6,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10460 Families Estimate,1,0,4,6,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10460 Families Margin of Error,1,0,4,6,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10460 Married-couple families Estimate,1,0,4,6,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10460 Married-couple families Margin of Error,1,0,4,6,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10460 Nonfamily households Estimate,1,0,4,6,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10460 Nonfamily households Margin of Error,1,0,4,6,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10461 Households Estimate,1,0,4,6,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10461 Households Margin of Error,1,0,4,6,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10461 Families Estimate,1,0,4,6,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10461 Families Margin of Error,1,0,4,6,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10461 Married-couple families Estimate,1,0,4,6,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10461 Married-couple families Margin of Error,1,0,4,6,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10461 Nonfamily households Estimate,1,0,4,6,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10461 Nonfamily households Margin of Error,1,0,4,6,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10462 Households Estimate,1,0,4,6,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10462 Households Margin of Error,1,0,4,6,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10462 Families Estimate,1,0,4,6,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10462 Families Margin of Error,1,0,4,6,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10462 Married-couple families Estimate,1,0,4,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10462 Married-couple families Margin of Error,1,0,4,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10462 Nonfamily households Estimate,1,0,4,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10462 Nonfamily households Margin of Error,1,0,4,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10463 Households Estimate,1,0,4,6,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10463 Households Margin of Error,1,0,4,6,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10463 Families Estimate,1,0,4,6,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10463 Families Margin of Error,1,0,4,6,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10463 Married-couple families Estimate,1,0,4,6,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10463 Married-couple families Margin of Error,1,0,4,6,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10463 Nonfamily households Estimate,1,0,4,6,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10463 Nonfamily households Margin of Error,1,0,4,6,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10464 Households Estimate,1,0,4,6,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10464 Households Margin of Error,1,0,4,6,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10464 Families Estimate,1,0,4,6,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10464 Families Margin of Error,1,0,4,6,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10464 Married-couple families Estimate,1,0,4,6,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10464 Married-couple families Margin of Error,1,0,4,6,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10464 Nonfamily households Estimate,1,0,4,6,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10464 Nonfamily households Margin of Error,1,0,4,6,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10465 Households Estimate,1,0,4,6,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10465 Households Margin of Error,1,0,4,6,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10465 Families Estimate,1,0,4,6,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10465 Families Margin of Error,1,0,4,6,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10465 Married-couple families Estimate,1,0,4,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10465 Married-couple families Margin of Error,1,0,4,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10465 Nonfamily households Estimate,1,0,4,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10465 Nonfamily households Margin of Error,1,0,4,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10466 Households Estimate,1,0,4,6,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10466 Households Margin of Error,1,0,4,6,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10466 Families Estimate,1,0,4,6,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10466 Families Margin of Error,1,0,4,6,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10466 Married-couple families Estimate,1,0,4,6,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10466 Married-couple families Margin of Error,1,0,4,6,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10466 Nonfamily households Estimate,1,0,4,6,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10466 Nonfamily households Margin of Error,1,0,4,6,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10467 Households Estimate,1,0,4,6,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10467 Households Margin of Error,1,0,4,6,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10467 Families Estimate,1,0,4,6,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10467 Families Margin of Error,1,0,4,6,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10467 Married-couple families Estimate,1,0,4,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10467 Married-couple families Margin of Error,1,0,4,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10467 Nonfamily households Estimate,1,0,4,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10467 Nonfamily households Margin of Error,1,0,4,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10468 Households Estimate,1,0,4,6,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10468 Households Margin of Error,1,0,4,6,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10468 Families Estimate,1,0,4,6,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10468 Families Margin of Error,1,0,4,6,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10468 Married-couple families Estimate,1,0,4,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10468 Married-couple families Margin of Error,1,0,4,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10468 Nonfamily households Estimate,1,0,4,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10468 Nonfamily households Margin of Error,1,0,4,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10469 Households Estimate,1,0,4,6,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10469 Households Margin of Error,1,0,4,6,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10469 Families Estimate,1,0,4,6,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10469 Families Margin of Error,1,0,4,6,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10469 Married-couple families Estimate,1,0,4,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10469 Married-couple families Margin of Error,1,0,4,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10469 Nonfamily households Estimate,1,0,4,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10469 Nonfamily households Margin of Error,1,0,4,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10470 Households Estimate,1,0,4,7,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10470 Households Margin of Error,1,0,4,7,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10470 Families Estimate,1,0,4,7,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10470 Families Margin of Error,1,0,4,7,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10470 Married-couple families Estimate,1,0,4,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10470 Married-couple families Margin of Error,1,0,4,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10470 Nonfamily households Estimate,1,0,4,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10470 Nonfamily households Margin of Error,1,0,4,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10471 Households Estimate,1,0,4,7,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10471 Households Margin of Error,1,0,4,7,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10471 Families Estimate,1,0,4,7,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10471 Families Margin of Error,1,0,4,7,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10471 Married-couple families Estimate,1,0,4,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10471 Married-couple families Margin of Error,1,0,4,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10471 Nonfamily households Estimate,1,0,4,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10471 Nonfamily households Margin of Error,1,0,4,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10472 Households Estimate,1,0,4,7,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10472 Households Margin of Error,1,0,4,7,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10472 Families Estimate,1,0,4,7,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10472 Families Margin of Error,1,0,4,7,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10472 Married-couple families Estimate,1,0,4,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10472 Married-couple families Margin of Error,1,0,4,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10472 Nonfamily households Estimate,1,0,4,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10472 Nonfamily households Margin of Error,1,0,4,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10473 Households Estimate,1,0,4,7,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10473 Households Margin of Error,1,0,4,7,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10473 Families Estimate,1,0,4,7,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10473 Families Margin of Error,1,0,4,7,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10473 Married-couple families Estimate,1,0,4,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10473 Married-couple families Margin of Error,1,0,4,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10473 Nonfamily households Estimate,1,0,4,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10473 Nonfamily households Margin of Error,1,0,4,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10474 Households Estimate,1,0,4,7,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10474 Households Margin of Error,1,0,4,7,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10474 Families Estimate,1,0,4,7,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10474 Families Margin of Error,1,0,4,7,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10474 Married-couple families Estimate,1,0,4,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10474 Married-couple families Margin of Error,1,0,4,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10474 Nonfamily households Estimate,1,0,4,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10474 Nonfamily households Margin of Error,1,0,4,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10475 Households Estimate,1,0,4,7,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10475 Households Margin of Error,1,0,4,7,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10475 Families Estimate,1,0,4,7,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10475 Families Margin of Error,1,0,4,7,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10475 Married-couple families Estimate,1,0,4,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+10475 Married-couple families Margin of Error,1,0,4,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+10475 Nonfamily households Estimate,1,0,4,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+10475 Nonfamily households Margin of Error,1,0,4,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11004 Households Estimate,1,1,0,0,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11004 Households Margin of Error,1,1,0,0,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11004 Families Estimate,1,1,0,0,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11004 Families Margin of Error,1,1,0,0,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11004 Married-couple families Estimate,1,1,0,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11004 Married-couple families Margin of Error,1,1,0,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11004 Nonfamily households Estimate,1,1,0,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11004 Nonfamily households Margin of Error,1,1,0,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11101 Households Estimate,1,1,1,0,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11101 Households Margin of Error,1,1,1,0,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11101 Families Estimate,1,1,1,0,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11101 Families Margin of Error,1,1,1,0,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11101 Married-couple families Estimate,1,1,1,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11101 Married-couple families Margin of Error,1,1,1,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11101 Nonfamily households Estimate,1,1,1,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11101 Nonfamily households Margin of Error,1,1,1,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11102 Households Estimate,1,1,1,0,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11102 Households Margin of Error,1,1,1,0,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11102 Families Estimate,1,1,1,0,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11102 Families Margin of Error,1,1,1,0,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11102 Married-couple families Estimate,1,1,1,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11102 Married-couple families Margin of Error,1,1,1,0,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11102 Nonfamily households Estimate,1,1,1,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11102 Nonfamily households Margin of Error,1,1,1,0,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11103 Households Estimate,1,1,1,0,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11103 Households Margin of Error,1,1,1,0,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11103 Families Estimate,1,1,1,0,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11103 Families Margin of Error,1,1,1,0,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11103 Married-couple families Estimate,1,1,1,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11103 Married-couple families Margin of Error,1,1,1,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11103 Nonfamily households Estimate,1,1,1,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11103 Nonfamily households Margin of Error,1,1,1,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11104 Households Estimate,1,1,1,0,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11104 Households Margin of Error,1,1,1,0,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11104 Families Estimate,1,1,1,0,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11104 Families Margin of Error,1,1,1,0,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11104 Married-couple families Estimate,1,1,1,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11104 Married-couple families Margin of Error,1,1,1,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11104 Nonfamily households Estimate,1,1,1,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11104 Nonfamily households Margin of Error,1,1,1,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11105 Households Estimate,1,1,1,0,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11105 Households Margin of Error,1,1,1,0,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11105 Families Estimate,1,1,1,0,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11105 Families Margin of Error,1,1,1,0,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11105 Married-couple families Estimate,1,1,1,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11105 Married-couple families Margin of Error,1,1,1,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11105 Nonfamily households Estimate,1,1,1,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11105 Nonfamily households Margin of Error,1,1,1,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11106 Households Estimate,1,1,1,0,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11106 Households Margin of Error,1,1,1,0,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11106 Families Estimate,1,1,1,0,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11106 Families Margin of Error,1,1,1,0,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11106 Married-couple families Estimate,1,1,1,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11106 Married-couple families Margin of Error,1,1,1,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11106 Nonfamily households Estimate,1,1,1,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11106 Nonfamily households Margin of Error,1,1,1,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11109 Households Estimate,1,1,1,0,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11109 Households Margin of Error,1,1,1,0,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11109 Families Estimate,1,1,1,0,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11109 Families Margin of Error,1,1,1,0,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11109 Married-couple families Estimate,1,1,1,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11109 Married-couple families Margin of Error,1,1,1,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11109 Nonfamily households Estimate,1,1,1,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11109 Nonfamily households Margin of Error,1,1,1,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11201 Households Estimate,1,1,2,0,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11201 Households Margin of Error,1,1,2,0,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11201 Families Estimate,1,1,2,0,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11201 Families Margin of Error,1,1,2,0,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11201 Married-couple families Estimate,1,1,2,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11201 Married-couple families Margin of Error,1,1,2,0,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11201 Nonfamily households Estimate,1,1,2,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11201 Nonfamily households Margin of Error,1,1,2,0,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11203 Households Estimate,1,1,2,0,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11203 Households Margin of Error,1,1,2,0,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11203 Families Estimate,1,1,2,0,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11203 Families Margin of Error,1,1,2,0,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11203 Married-couple families Estimate,1,1,2,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11203 Married-couple families Margin of Error,1,1,2,0,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11203 Nonfamily households Estimate,1,1,2,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11203 Nonfamily households Margin of Error,1,1,2,0,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11204 Households Estimate,1,1,2,0,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11204 Households Margin of Error,1,1,2,0,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11204 Families Estimate,1,1,2,0,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11204 Families Margin of Error,1,1,2,0,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11204 Married-couple families Estimate,1,1,2,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11204 Married-couple families Margin of Error,1,1,2,0,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11204 Nonfamily households Estimate,1,1,2,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11204 Nonfamily households Margin of Error,1,1,2,0,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11205 Households Estimate,1,1,2,0,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11205 Households Margin of Error,1,1,2,0,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11205 Families Estimate,1,1,2,0,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11205 Families Margin of Error,1,1,2,0,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11205 Married-couple families Estimate,1,1,2,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11205 Married-couple families Margin of Error,1,1,2,0,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11205 Nonfamily households Estimate,1,1,2,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11205 Nonfamily households Margin of Error,1,1,2,0,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11206 Households Estimate,1,1,2,0,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11206 Households Margin of Error,1,1,2,0,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11206 Families Estimate,1,1,2,0,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11206 Families Margin of Error,1,1,2,0,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11206 Married-couple families Estimate,1,1,2,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11206 Married-couple families Margin of Error,1,1,2,0,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11206 Nonfamily households Estimate,1,1,2,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11206 Nonfamily households Margin of Error,1,1,2,0,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11207 Households Estimate,1,1,2,0,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11207 Households Margin of Error,1,1,2,0,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11207 Families Estimate,1,1,2,0,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11207 Families Margin of Error,1,1,2,0,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11207 Married-couple families Estimate,1,1,2,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11207 Married-couple families Margin of Error,1,1,2,0,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11207 Nonfamily households Estimate,1,1,2,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11207 Nonfamily households Margin of Error,1,1,2,0,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11208 Households Estimate,1,1,2,0,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11208 Households Margin of Error,1,1,2,0,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11208 Families Estimate,1,1,2,0,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11208 Families Margin of Error,1,1,2,0,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11208 Married-couple families Estimate,1,1,2,0,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11208 Married-couple families Margin of Error,1,1,2,0,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11208 Nonfamily households Estimate,1,1,2,0,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11208 Nonfamily households Margin of Error,1,1,2,0,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11209 Households Estimate,1,1,2,0,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11209 Households Margin of Error,1,1,2,0,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11209 Families Estimate,1,1,2,0,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11209 Families Margin of Error,1,1,2,0,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11209 Married-couple families Estimate,1,1,2,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11209 Married-couple families Margin of Error,1,1,2,0,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11209 Nonfamily households Estimate,1,1,2,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11209 Nonfamily households Margin of Error,1,1,2,0,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11210 Households Estimate,1,1,2,1,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11210 Households Margin of Error,1,1,2,1,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11210 Families Estimate,1,1,2,1,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11210 Families Margin of Error,1,1,2,1,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11210 Married-couple families Estimate,1,1,2,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11210 Married-couple families Margin of Error,1,1,2,1,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11210 Nonfamily households Estimate,1,1,2,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11210 Nonfamily households Margin of Error,1,1,2,1,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11211 Households Estimate,1,1,2,1,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11211 Households Margin of Error,1,1,2,1,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11211 Families Estimate,1,1,2,1,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11211 Families Margin of Error,1,1,2,1,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11211 Married-couple families Estimate,1,1,2,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11211 Married-couple families Margin of Error,1,1,2,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11211 Nonfamily households Estimate,1,1,2,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11211 Nonfamily households Margin of Error,1,1,2,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11212 Households Estimate,1,1,2,1,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11212 Households Margin of Error,1,1,2,1,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11212 Families Estimate,1,1,2,1,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11212 Families Margin of Error,1,1,2,1,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11212 Married-couple families Estimate,1,1,2,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11212 Married-couple families Margin of Error,1,1,2,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11212 Nonfamily households Estimate,1,1,2,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11212 Nonfamily households Margin of Error,1,1,2,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11213 Households Estimate,1,1,2,1,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11213 Households Margin of Error,1,1,2,1,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11213 Families Estimate,1,1,2,1,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11213 Families Margin of Error,1,1,2,1,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11213 Married-couple families Estimate,1,1,2,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11213 Married-couple families Margin of Error,1,1,2,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11213 Nonfamily households Estimate,1,1,2,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11213 Nonfamily households Margin of Error,1,1,2,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11214 Households Estimate,1,1,2,1,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11214 Households Margin of Error,1,1,2,1,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11214 Families Estimate,1,1,2,1,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11214 Families Margin of Error,1,1,2,1,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11214 Married-couple families Estimate,1,1,2,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11214 Married-couple families Margin of Error,1,1,2,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11214 Nonfamily households Estimate,1,1,2,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11214 Nonfamily households Margin of Error,1,1,2,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11215 Households Estimate,1,1,2,1,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11215 Households Margin of Error,1,1,2,1,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11215 Families Estimate,1,1,2,1,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11215 Families Margin of Error,1,1,2,1,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11215 Married-couple families Estimate,1,1,2,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11215 Married-couple families Margin of Error,1,1,2,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11215 Nonfamily households Estimate,1,1,2,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11215 Nonfamily households Margin of Error,1,1,2,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11216 Households Estimate,1,1,2,1,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11216 Households Margin of Error,1,1,2,1,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11216 Families Estimate,1,1,2,1,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11216 Families Margin of Error,1,1,2,1,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11216 Married-couple families Estimate,1,1,2,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11216 Married-couple families Margin of Error,1,1,2,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11216 Nonfamily households Estimate,1,1,2,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11216 Nonfamily households Margin of Error,1,1,2,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11217 Households Estimate,1,1,2,1,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11217 Households Margin of Error,1,1,2,1,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11217 Families Estimate,1,1,2,1,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11217 Families Margin of Error,1,1,2,1,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11217 Married-couple families Estimate,1,1,2,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11217 Married-couple families Margin of Error,1,1,2,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11217 Nonfamily households Estimate,1,1,2,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11217 Nonfamily households Margin of Error,1,1,2,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11218 Households Estimate,1,1,2,1,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11218 Households Margin of Error,1,1,2,1,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11218 Families Estimate,1,1,2,1,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11218 Families Margin of Error,1,1,2,1,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11218 Married-couple families Estimate,1,1,2,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11218 Married-couple families Margin of Error,1,1,2,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11218 Nonfamily households Estimate,1,1,2,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11218 Nonfamily households Margin of Error,1,1,2,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11219 Households Estimate,1,1,2,1,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11219 Households Margin of Error,1,1,2,1,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11219 Families Estimate,1,1,2,1,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11219 Families Margin of Error,1,1,2,1,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11219 Married-couple families Estimate,1,1,2,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11219 Married-couple families Margin of Error,1,1,2,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11219 Nonfamily households Estimate,1,1,2,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11219 Nonfamily households Margin of Error,1,1,2,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11220 Households Estimate,1,1,2,2,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11220 Households Margin of Error,1,1,2,2,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11220 Families Estimate,1,1,2,2,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11220 Families Margin of Error,1,1,2,2,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11220 Married-couple families Estimate,1,1,2,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11220 Married-couple families Margin of Error,1,1,2,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11220 Nonfamily households Estimate,1,1,2,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11220 Nonfamily households Margin of Error,1,1,2,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11221 Households Estimate,1,1,2,2,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11221 Households Margin of Error,1,1,2,2,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11221 Families Estimate,1,1,2,2,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11221 Families Margin of Error,1,1,2,2,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11221 Married-couple families Estimate,1,1,2,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11221 Married-couple families Margin of Error,1,1,2,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11221 Nonfamily households Estimate,1,1,2,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11221 Nonfamily households Margin of Error,1,1,2,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11222 Households Estimate,1,1,2,2,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11222 Households Margin of Error,1,1,2,2,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11222 Families Estimate,1,1,2,2,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11222 Families Margin of Error,1,1,2,2,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11222 Married-couple families Estimate,1,1,2,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11222 Married-couple families Margin of Error,1,1,2,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11222 Nonfamily households Estimate,1,1,2,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11222 Nonfamily households Margin of Error,1,1,2,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11223 Households Estimate,1,1,2,2,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11223 Households Margin of Error,1,1,2,2,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11223 Families Estimate,1,1,2,2,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11223 Families Margin of Error,1,1,2,2,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11223 Married-couple families Estimate,1,1,2,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11223 Married-couple families Margin of Error,1,1,2,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11223 Nonfamily households Estimate,1,1,2,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11223 Nonfamily households Margin of Error,1,1,2,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11224 Households Estimate,1,1,2,2,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11224 Households Margin of Error,1,1,2,2,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11224 Families Estimate,1,1,2,2,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11224 Families Margin of Error,1,1,2,2,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11224 Married-couple families Estimate,1,1,2,2,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11224 Married-couple families Margin of Error,1,1,2,2,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11224 Nonfamily households Estimate,1,1,2,2,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11224 Nonfamily households Margin of Error,1,1,2,2,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11225 Households Estimate,1,1,2,2,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11225 Households Margin of Error,1,1,2,2,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11225 Families Estimate,1,1,2,2,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11225 Families Margin of Error,1,1,2,2,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11225 Married-couple families Estimate,1,1,2,2,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11225 Married-couple families Margin of Error,1,1,2,2,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11225 Nonfamily households Estimate,1,1,2,2,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11225 Nonfamily households Margin of Error,1,1,2,2,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11226 Households Estimate,1,1,2,2,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11226 Households Margin of Error,1,1,2,2,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11226 Families Estimate,1,1,2,2,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11226 Families Margin of Error,1,1,2,2,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11226 Married-couple families Estimate,1,1,2,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11226 Married-couple families Margin of Error,1,1,2,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11226 Nonfamily households Estimate,1,1,2,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11226 Nonfamily households Margin of Error,1,1,2,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11228 Households Estimate,1,1,2,2,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11228 Households Margin of Error,1,1,2,2,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11228 Families Estimate,1,1,2,2,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11228 Families Margin of Error,1,1,2,2,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11228 Married-couple families Estimate,1,1,2,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11228 Married-couple families Margin of Error,1,1,2,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11228 Nonfamily households Estimate,1,1,2,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11228 Nonfamily households Margin of Error,1,1,2,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11229 Households Estimate,1,1,2,2,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11229 Households Margin of Error,1,1,2,2,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11229 Families Estimate,1,1,2,2,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11229 Families Margin of Error,1,1,2,2,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11229 Married-couple families Estimate,1,1,2,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11229 Married-couple families Margin of Error,1,1,2,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11229 Nonfamily households Estimate,1,1,2,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11229 Nonfamily households Margin of Error,1,1,2,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11230 Households Estimate,1,1,2,3,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11230 Households Margin of Error,1,1,2,3,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11230 Families Estimate,1,1,2,3,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11230 Families Margin of Error,1,1,2,3,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11230 Married-couple families Estimate,1,1,2,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11230 Married-couple families Margin of Error,1,1,2,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11230 Nonfamily households Estimate,1,1,2,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11230 Nonfamily households Margin of Error,1,1,2,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11231 Households Estimate,1,1,2,3,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11231 Households Margin of Error,1,1,2,3,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11231 Families Estimate,1,1,2,3,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11231 Families Margin of Error,1,1,2,3,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11231 Married-couple families Estimate,1,1,2,3,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11231 Married-couple families Margin of Error,1,1,2,3,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11231 Nonfamily households Estimate,1,1,2,3,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11231 Nonfamily households Margin of Error,1,1,2,3,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11232 Households Estimate,1,1,2,3,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11232 Households Margin of Error,1,1,2,3,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11232 Families Estimate,1,1,2,3,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11232 Families Margin of Error,1,1,2,3,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11232 Married-couple families Estimate,1,1,2,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11232 Married-couple families Margin of Error,1,1,2,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11232 Nonfamily households Estimate,1,1,2,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11232 Nonfamily households Margin of Error,1,1,2,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11233 Households Estimate,1,1,2,3,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11233 Households Margin of Error,1,1,2,3,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11233 Families Estimate,1,1,2,3,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11233 Families Margin of Error,1,1,2,3,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11233 Married-couple families Estimate,1,1,2,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11233 Married-couple families Margin of Error,1,1,2,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11233 Nonfamily households Estimate,1,1,2,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11233 Nonfamily households Margin of Error,1,1,2,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11234 Households Estimate,1,1,2,3,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11234 Households Margin of Error,1,1,2,3,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11234 Families Estimate,1,1,2,3,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11234 Families Margin of Error,1,1,2,3,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11234 Married-couple families Estimate,1,1,2,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11234 Married-couple families Margin of Error,1,1,2,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11234 Nonfamily households Estimate,1,1,2,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11234 Nonfamily households Margin of Error,1,1,2,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11235 Households Estimate,1,1,2,3,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11235 Households Margin of Error,1,1,2,3,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11235 Families Estimate,1,1,2,3,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11235 Families Margin of Error,1,1,2,3,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11235 Married-couple families Estimate,1,1,2,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11235 Married-couple families Margin of Error,1,1,2,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11235 Nonfamily households Estimate,1,1,2,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11235 Nonfamily households Margin of Error,1,1,2,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11236 Households Estimate,1,1,2,3,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11236 Households Margin of Error,1,1,2,3,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11236 Families Estimate,1,1,2,3,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11236 Families Margin of Error,1,1,2,3,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11236 Married-couple families Estimate,1,1,2,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11236 Married-couple families Margin of Error,1,1,2,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11236 Nonfamily households Estimate,1,1,2,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11236 Nonfamily households Margin of Error,1,1,2,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11237 Households Estimate,1,1,2,3,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11237 Households Margin of Error,1,1,2,3,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11237 Families Estimate,1,1,2,3,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11237 Families Margin of Error,1,1,2,3,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11237 Married-couple families Estimate,1,1,2,3,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11237 Married-couple families Margin of Error,1,1,2,3,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11237 Nonfamily households Estimate,1,1,2,3,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11237 Nonfamily households Margin of Error,1,1,2,3,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11238 Households Estimate,1,1,2,3,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11238 Households Margin of Error,1,1,2,3,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11238 Families Estimate,1,1,2,3,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11238 Families Margin of Error,1,1,2,3,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11238 Married-couple families Estimate,1,1,2,3,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11238 Married-couple families Margin of Error,1,1,2,3,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11238 Nonfamily households Estimate,1,1,2,3,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11238 Nonfamily households Margin of Error,1,1,2,3,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11239 Households Estimate,1,1,2,3,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11239 Households Margin of Error,1,1,2,3,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11239 Families Estimate,1,1,2,3,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11239 Families Margin of Error,1,1,2,3,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11239 Married-couple families Estimate,1,1,2,3,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11239 Married-couple families Margin of Error,1,1,2,3,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11239 Nonfamily households Estimate,1,1,2,3,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11239 Nonfamily households Margin of Error,1,1,2,3,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11351 Households Estimate,1,1,3,5,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11351 Households Margin of Error,1,1,3,5,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11351 Families Estimate,1,1,3,5,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11351 Families Margin of Error,1,1,3,5,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11351 Married-couple families Estimate,1,1,3,5,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11351 Married-couple families Margin of Error,1,1,3,5,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11351 Nonfamily households Estimate,1,1,3,5,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11351 Nonfamily households Margin of Error,1,1,3,5,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11354 Households Estimate,1,1,3,5,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11354 Households Margin of Error,1,1,3,5,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11354 Families Estimate,1,1,3,5,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11354 Families Margin of Error,1,1,3,5,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11354 Married-couple families Estimate,1,1,3,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11354 Married-couple families Margin of Error,1,1,3,5,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11354 Nonfamily households Estimate,1,1,3,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11354 Nonfamily households Margin of Error,1,1,3,5,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11355 Households Estimate,1,1,3,5,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11355 Households Margin of Error,1,1,3,5,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11355 Families Estimate,1,1,3,5,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11355 Families Margin of Error,1,1,3,5,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11355 Married-couple families Estimate,1,1,3,5,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11355 Married-couple families Margin of Error,1,1,3,5,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11355 Nonfamily households Estimate,1,1,3,5,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11355 Nonfamily households Margin of Error,1,1,3,5,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11356 Households Estimate,1,1,3,5,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11356 Households Margin of Error,1,1,3,5,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11356 Families Estimate,1,1,3,5,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11356 Families Margin of Error,1,1,3,5,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11356 Married-couple families Estimate,1,1,3,5,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11356 Married-couple families Margin of Error,1,1,3,5,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11356 Nonfamily households Estimate,1,1,3,5,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11356 Nonfamily households Margin of Error,1,1,3,5,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11357 Households Estimate,1,1,3,5,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11357 Households Margin of Error,1,1,3,5,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11357 Families Estimate,1,1,3,5,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11357 Families Margin of Error,1,1,3,5,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11357 Married-couple families Estimate,1,1,3,5,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11357 Married-couple families Margin of Error,1,1,3,5,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11357 Nonfamily households Estimate,1,1,3,5,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11357 Nonfamily households Margin of Error,1,1,3,5,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11358 Households Estimate,1,1,3,5,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11358 Households Margin of Error,1,1,3,5,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11358 Families Estimate,1,1,3,5,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11358 Families Margin of Error,1,1,3,5,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11358 Married-couple families Estimate,1,1,3,5,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11358 Married-couple families Margin of Error,1,1,3,5,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11358 Nonfamily households Estimate,1,1,3,5,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11358 Nonfamily households Margin of Error,1,1,3,5,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11359 Households Estimate,1,1,3,5,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11359 Households Margin of Error,1,1,3,5,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11359 Families Estimate,1,1,3,5,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11359 Families Margin of Error,1,1,3,5,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11359 Married-couple families Estimate,1,1,3,5,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11359 Married-couple families Margin of Error,1,1,3,5,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11359 Nonfamily households Estimate,1,1,3,5,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11359 Nonfamily households Margin of Error,1,1,3,5,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11360 Households Estimate,1,1,3,6,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11360 Households Margin of Error,1,1,3,6,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11360 Families Estimate,1,1,3,6,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11360 Families Margin of Error,1,1,3,6,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11360 Married-couple families Estimate,1,1,3,6,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11360 Married-couple families Margin of Error,1,1,3,6,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11360 Nonfamily households Estimate,1,1,3,6,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11360 Nonfamily households Margin of Error,1,1,3,6,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11361 Households Estimate,1,1,3,6,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11361 Households Margin of Error,1,1,3,6,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11361 Families Estimate,1,1,3,6,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11361 Families Margin of Error,1,1,3,6,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11361 Married-couple families Estimate,1,1,3,6,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11361 Married-couple families Margin of Error,1,1,3,6,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11361 Nonfamily households Estimate,1,1,3,6,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11361 Nonfamily households Margin of Error,1,1,3,6,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11362 Households Estimate,1,1,3,6,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11362 Households Margin of Error,1,1,3,6,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11362 Families Estimate,1,1,3,6,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11362 Families Margin of Error,1,1,3,6,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11362 Married-couple families Estimate,1,1,3,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11362 Married-couple families Margin of Error,1,1,3,6,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11362 Nonfamily households Estimate,1,1,3,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11362 Nonfamily households Margin of Error,1,1,3,6,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11363 Households Estimate,1,1,3,6,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11363 Households Margin of Error,1,1,3,6,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11363 Families Estimate,1,1,3,6,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11363 Families Margin of Error,1,1,3,6,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11363 Married-couple families Estimate,1,1,3,6,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11363 Married-couple families Margin of Error,1,1,3,6,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11363 Nonfamily households Estimate,1,1,3,6,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11363 Nonfamily households Margin of Error,1,1,3,6,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11364 Households Estimate,1,1,3,6,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11364 Households Margin of Error,1,1,3,6,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11364 Families Estimate,1,1,3,6,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11364 Families Margin of Error,1,1,3,6,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11364 Married-couple families Estimate,1,1,3,6,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11364 Married-couple families Margin of Error,1,1,3,6,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11364 Nonfamily households Estimate,1,1,3,6,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11364 Nonfamily households Margin of Error,1,1,3,6,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11365 Households Estimate,1,1,3,6,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11365 Households Margin of Error,1,1,3,6,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11365 Families Estimate,1,1,3,6,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11365 Families Margin of Error,1,1,3,6,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11365 Married-couple families Estimate,1,1,3,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11365 Married-couple families Margin of Error,1,1,3,6,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11365 Nonfamily households Estimate,1,1,3,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11365 Nonfamily households Margin of Error,1,1,3,6,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11366 Households Estimate,1,1,3,6,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11366 Households Margin of Error,1,1,3,6,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11366 Families Estimate,1,1,3,6,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11366 Families Margin of Error,1,1,3,6,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11366 Married-couple families Estimate,1,1,3,6,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11366 Married-couple families Margin of Error,1,1,3,6,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11366 Nonfamily households Estimate,1,1,3,6,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11366 Nonfamily households Margin of Error,1,1,3,6,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11367 Households Estimate,1,1,3,6,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11367 Households Margin of Error,1,1,3,6,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11367 Families Estimate,1,1,3,6,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11367 Families Margin of Error,1,1,3,6,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11367 Married-couple families Estimate,1,1,3,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11367 Married-couple families Margin of Error,1,1,3,6,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11367 Nonfamily households Estimate,1,1,3,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11367 Nonfamily households Margin of Error,1,1,3,6,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11368 Households Estimate,1,1,3,6,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11368 Households Margin of Error,1,1,3,6,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11368 Families Estimate,1,1,3,6,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11368 Families Margin of Error,1,1,3,6,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11368 Married-couple families Estimate,1,1,3,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11368 Married-couple families Margin of Error,1,1,3,6,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11368 Nonfamily households Estimate,1,1,3,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11368 Nonfamily households Margin of Error,1,1,3,6,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11369 Households Estimate,1,1,3,6,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11369 Households Margin of Error,1,1,3,6,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11369 Families Estimate,1,1,3,6,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11369 Families Margin of Error,1,1,3,6,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11369 Married-couple families Estimate,1,1,3,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11369 Married-couple families Margin of Error,1,1,3,6,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11369 Nonfamily households Estimate,1,1,3,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11369 Nonfamily households Margin of Error,1,1,3,6,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11370 Households Estimate,1,1,3,7,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11370 Households Margin of Error,1,1,3,7,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11370 Families Estimate,1,1,3,7,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11370 Families Margin of Error,1,1,3,7,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11370 Married-couple families Estimate,1,1,3,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11370 Married-couple families Margin of Error,1,1,3,7,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11370 Nonfamily households Estimate,1,1,3,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11370 Nonfamily households Margin of Error,1,1,3,7,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11371 Households Estimate,1,1,3,7,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11371 Households Margin of Error,1,1,3,7,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11371 Families Estimate,1,1,3,7,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11371 Families Margin of Error,1,1,3,7,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11371 Married-couple families Estimate,1,1,3,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11371 Married-couple families Margin of Error,1,1,3,7,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11371 Nonfamily households Estimate,1,1,3,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11371 Nonfamily households Margin of Error,1,1,3,7,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11372 Households Estimate,1,1,3,7,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11372 Households Margin of Error,1,1,3,7,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11372 Families Estimate,1,1,3,7,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11372 Families Margin of Error,1,1,3,7,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11372 Married-couple families Estimate,1,1,3,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11372 Married-couple families Margin of Error,1,1,3,7,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11372 Nonfamily households Estimate,1,1,3,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11372 Nonfamily households Margin of Error,1,1,3,7,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11373 Households Estimate,1,1,3,7,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11373 Households Margin of Error,1,1,3,7,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11373 Families Estimate,1,1,3,7,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11373 Families Margin of Error,1,1,3,7,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11373 Married-couple families Estimate,1,1,3,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11373 Married-couple families Margin of Error,1,1,3,7,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11373 Nonfamily households Estimate,1,1,3,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11373 Nonfamily households Margin of Error,1,1,3,7,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11374 Households Estimate,1,1,3,7,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11374 Households Margin of Error,1,1,3,7,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11374 Families Estimate,1,1,3,7,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11374 Families Margin of Error,1,1,3,7,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11374 Married-couple families Estimate,1,1,3,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11374 Married-couple families Margin of Error,1,1,3,7,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11374 Nonfamily households Estimate,1,1,3,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11374 Nonfamily households Margin of Error,1,1,3,7,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11375 Households Estimate,1,1,3,7,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11375 Households Margin of Error,1,1,3,7,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11375 Families Estimate,1,1,3,7,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11375 Families Margin of Error,1,1,3,7,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11375 Married-couple families Estimate,1,1,3,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11375 Married-couple families Margin of Error,1,1,3,7,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11375 Nonfamily households Estimate,1,1,3,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11375 Nonfamily households Margin of Error,1,1,3,7,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11377 Households Estimate,1,1,3,7,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11377 Households Margin of Error,1,1,3,7,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11377 Families Estimate,1,1,3,7,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11377 Families Margin of Error,1,1,3,7,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11377 Married-couple families Estimate,1,1,3,7,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11377 Married-couple families Margin of Error,1,1,3,7,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11377 Nonfamily households Estimate,1,1,3,7,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11377 Nonfamily households Margin of Error,1,1,3,7,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11378 Households Estimate,1,1,3,7,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11378 Households Margin of Error,1,1,3,7,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11378 Families Estimate,1,1,3,7,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11378 Families Margin of Error,1,1,3,7,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11378 Married-couple families Estimate,1,1,3,7,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11378 Married-couple families Margin of Error,1,1,3,7,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11378 Nonfamily households Estimate,1,1,3,7,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11378 Nonfamily households Margin of Error,1,1,3,7,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11379 Households Estimate,1,1,3,7,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11379 Households Margin of Error,1,1,3,7,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11379 Families Estimate,1,1,3,7,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11379 Families Margin of Error,1,1,3,7,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11379 Married-couple families Estimate,1,1,3,7,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11379 Married-couple families Margin of Error,1,1,3,7,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11379 Nonfamily households Estimate,1,1,3,7,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11379 Nonfamily households Margin of Error,1,1,3,7,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11385 Households Estimate,1,1,3,8,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11385 Households Margin of Error,1,1,3,8,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11385 Families Estimate,1,1,3,8,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11385 Families Margin of Error,1,1,3,8,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11385 Married-couple families Estimate,1,1,3,8,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11385 Married-couple families Margin of Error,1,1,3,8,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11385 Nonfamily households Estimate,1,1,3,8,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11385 Nonfamily households Margin of Error,1,1,3,8,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11411 Households Estimate,1,1,4,1,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11411 Households Margin of Error,1,1,4,1,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11411 Families Estimate,1,1,4,1,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11411 Families Margin of Error,1,1,4,1,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11411 Married-couple families Estimate,1,1,4,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11411 Married-couple families Margin of Error,1,1,4,1,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11411 Nonfamily households Estimate,1,1,4,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11411 Nonfamily households Margin of Error,1,1,4,1,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11412 Households Estimate,1,1,4,1,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11412 Households Margin of Error,1,1,4,1,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11412 Families Estimate,1,1,4,1,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11412 Families Margin of Error,1,1,4,1,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11412 Married-couple families Estimate,1,1,4,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11412 Married-couple families Margin of Error,1,1,4,1,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11412 Nonfamily households Estimate,1,1,4,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11412 Nonfamily households Margin of Error,1,1,4,1,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11413 Households Estimate,1,1,4,1,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11413 Households Margin of Error,1,1,4,1,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11413 Families Estimate,1,1,4,1,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11413 Families Margin of Error,1,1,4,1,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11413 Married-couple families Estimate,1,1,4,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11413 Married-couple families Margin of Error,1,1,4,1,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11413 Nonfamily households Estimate,1,1,4,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11413 Nonfamily households Margin of Error,1,1,4,1,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11414 Households Estimate,1,1,4,1,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11414 Households Margin of Error,1,1,4,1,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11414 Families Estimate,1,1,4,1,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11414 Families Margin of Error,1,1,4,1,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11414 Married-couple families Estimate,1,1,4,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11414 Married-couple families Margin of Error,1,1,4,1,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11414 Nonfamily households Estimate,1,1,4,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11414 Nonfamily households Margin of Error,1,1,4,1,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11415 Households Estimate,1,1,4,1,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11415 Households Margin of Error,1,1,4,1,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11415 Families Estimate,1,1,4,1,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11415 Families Margin of Error,1,1,4,1,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11415 Married-couple families Estimate,1,1,4,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11415 Married-couple families Margin of Error,1,1,4,1,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11415 Nonfamily households Estimate,1,1,4,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11415 Nonfamily households Margin of Error,1,1,4,1,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11416 Households Estimate,1,1,4,1,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11416 Households Margin of Error,1,1,4,1,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11416 Families Estimate,1,1,4,1,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11416 Families Margin of Error,1,1,4,1,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11416 Married-couple families Estimate,1,1,4,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11416 Married-couple families Margin of Error,1,1,4,1,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11416 Nonfamily households Estimate,1,1,4,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11416 Nonfamily households Margin of Error,1,1,4,1,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11417 Households Estimate,1,1,4,1,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11417 Households Margin of Error,1,1,4,1,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11417 Families Estimate,1,1,4,1,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11417 Families Margin of Error,1,1,4,1,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11417 Married-couple families Estimate,1,1,4,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11417 Married-couple families Margin of Error,1,1,4,1,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11417 Nonfamily households Estimate,1,1,4,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11417 Nonfamily households Margin of Error,1,1,4,1,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11418 Households Estimate,1,1,4,1,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11418 Households Margin of Error,1,1,4,1,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11418 Families Estimate,1,1,4,1,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11418 Families Margin of Error,1,1,4,1,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11418 Married-couple families Estimate,1,1,4,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11418 Married-couple families Margin of Error,1,1,4,1,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11418 Nonfamily households Estimate,1,1,4,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11418 Nonfamily households Margin of Error,1,1,4,1,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11419 Households Estimate,1,1,4,1,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11419 Households Margin of Error,1,1,4,1,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11419 Families Estimate,1,1,4,1,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11419 Families Margin of Error,1,1,4,1,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11419 Married-couple families Estimate,1,1,4,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11419 Married-couple families Margin of Error,1,1,4,1,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11419 Nonfamily households Estimate,1,1,4,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11419 Nonfamily households Margin of Error,1,1,4,1,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11420 Households Estimate,1,1,4,2,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11420 Households Margin of Error,1,1,4,2,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11420 Families Estimate,1,1,4,2,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11420 Families Margin of Error,1,1,4,2,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11420 Married-couple families Estimate,1,1,4,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11420 Married-couple families Margin of Error,1,1,4,2,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11420 Nonfamily households Estimate,1,1,4,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11420 Nonfamily households Margin of Error,1,1,4,2,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11421 Households Estimate,1,1,4,2,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11421 Households Margin of Error,1,1,4,2,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11421 Families Estimate,1,1,4,2,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11421 Families Margin of Error,1,1,4,2,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11421 Married-couple families Estimate,1,1,4,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11421 Married-couple families Margin of Error,1,1,4,2,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11421 Nonfamily households Estimate,1,1,4,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11421 Nonfamily households Margin of Error,1,1,4,2,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11422 Households Estimate,1,1,4,2,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11422 Households Margin of Error,1,1,4,2,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11422 Families Estimate,1,1,4,2,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11422 Families Margin of Error,1,1,4,2,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11422 Married-couple families Estimate,1,1,4,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11422 Married-couple families Margin of Error,1,1,4,2,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11422 Nonfamily households Estimate,1,1,4,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11422 Nonfamily households Margin of Error,1,1,4,2,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11423 Households Estimate,1,1,4,2,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11423 Households Margin of Error,1,1,4,2,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11423 Families Estimate,1,1,4,2,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11423 Families Margin of Error,1,1,4,2,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11423 Married-couple families Estimate,1,1,4,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11423 Married-couple families Margin of Error,1,1,4,2,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11423 Nonfamily households Estimate,1,1,4,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11423 Nonfamily households Margin of Error,1,1,4,2,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11426 Households Estimate,1,1,4,2,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11426 Households Margin of Error,1,1,4,2,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11426 Families Estimate,1,1,4,2,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11426 Families Margin of Error,1,1,4,2,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11426 Married-couple families Estimate,1,1,4,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11426 Married-couple families Margin of Error,1,1,4,2,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11426 Nonfamily households Estimate,1,1,4,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11426 Nonfamily households Margin of Error,1,1,4,2,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11427 Households Estimate,1,1,4,2,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11427 Households Margin of Error,1,1,4,2,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11427 Families Estimate,1,1,4,2,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11427 Families Margin of Error,1,1,4,2,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11427 Married-couple families Estimate,1,1,4,2,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11427 Married-couple families Margin of Error,1,1,4,2,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11427 Nonfamily households Estimate,1,1,4,2,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11427 Nonfamily households Margin of Error,1,1,4,2,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11428 Households Estimate,1,1,4,2,8, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11428 Households Margin of Error,1,1,4,2,8, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11428 Families Estimate,1,1,4,2,8, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11428 Families Margin of Error,1,1,4,2,8, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11428 Married-couple families Estimate,1,1,4,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11428 Married-couple families Margin of Error,1,1,4,2,8, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11428 Nonfamily households Estimate,1,1,4,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11428 Nonfamily households Margin of Error,1,1,4,2,8, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11429 Households Estimate,1,1,4,2,9, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11429 Households Margin of Error,1,1,4,2,9, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11429 Families Estimate,1,1,4,2,9, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11429 Families Margin of Error,1,1,4,2,9, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11429 Married-couple families Estimate,1,1,4,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11429 Married-couple families Margin of Error,1,1,4,2,9, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11429 Nonfamily households Estimate,1,1,4,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11429 Nonfamily households Margin of Error,1,1,4,2,9, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11430 Households Estimate,1,1,4,3,0, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11430 Households Margin of Error,1,1,4,3,0, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11430 Families Estimate,1,1,4,3,0, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11430 Families Margin of Error,1,1,4,3,0, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11430 Married-couple families Estimate,1,1,4,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11430 Married-couple families Margin of Error,1,1,4,3,0, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11430 Nonfamily households Estimate,1,1,4,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11430 Nonfamily households Margin of Error,1,1,4,3,0, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11432 Households Estimate,1,1,4,3,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11432 Households Margin of Error,1,1,4,3,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11432 Families Estimate,1,1,4,3,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11432 Families Margin of Error,1,1,4,3,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11432 Married-couple families Estimate,1,1,4,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11432 Married-couple families Margin of Error,1,1,4,3,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11432 Nonfamily households Estimate,1,1,4,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11432 Nonfamily households Margin of Error,1,1,4,3,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11433 Households Estimate,1,1,4,3,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11433 Households Margin of Error,1,1,4,3,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11433 Families Estimate,1,1,4,3,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11433 Families Margin of Error,1,1,4,3,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11433 Married-couple families Estimate,1,1,4,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11433 Married-couple families Margin of Error,1,1,4,3,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11433 Nonfamily households Estimate,1,1,4,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11433 Nonfamily households Margin of Error,1,1,4,3,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11434 Households Estimate,1,1,4,3,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11434 Households Margin of Error,1,1,4,3,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11434 Families Estimate,1,1,4,3,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11434 Families Margin of Error,1,1,4,3,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11434 Married-couple families Estimate,1,1,4,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11434 Married-couple families Margin of Error,1,1,4,3,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11434 Nonfamily households Estimate,1,1,4,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11434 Nonfamily households Margin of Error,1,1,4,3,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11435 Households Estimate,1,1,4,3,5, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11435 Households Margin of Error,1,1,4,3,5, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11435 Families Estimate,1,1,4,3,5, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11435 Families Margin of Error,1,1,4,3,5, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11435 Married-couple families Estimate,1,1,4,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11435 Married-couple families Margin of Error,1,1,4,3,5, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11435 Nonfamily households Estimate,1,1,4,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11435 Nonfamily households Margin of Error,1,1,4,3,5, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11436 Households Estimate,1,1,4,3,6, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11436 Households Margin of Error,1,1,4,3,6, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11436 Families Estimate,1,1,4,3,6, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11436 Families Margin of Error,1,1,4,3,6, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11436 Married-couple families Estimate,1,1,4,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11436 Married-couple families Margin of Error,1,1,4,3,6, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11436 Nonfamily households Estimate,1,1,4,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11436 Nonfamily households Margin of Error,1,1,4,3,6, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11691 Households Estimate,1,1,6,9,1, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11691 Households Margin of Error,1,1,6,9,1, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11691 Families Estimate,1,1,6,9,1, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11691 Families Margin of Error,1,1,6,9,1, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11691 Married-couple families Estimate,1,1,6,9,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11691 Married-couple families Margin of Error,1,1,6,9,1, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11691 Nonfamily households Estimate,1,1,6,9,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11691 Nonfamily households Margin of Error,1,1,6,9,1, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11692 Households Estimate,1,1,6,9,2, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11692 Households Margin of Error,1,1,6,9,2, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11692 Families Estimate,1,1,6,9,2, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11692 Families Margin of Error,1,1,6,9,2, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11692 Married-couple families Estimate,1,1,6,9,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11692 Married-couple families Margin of Error,1,1,6,9,2, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11692 Nonfamily households Estimate,1,1,6,9,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11692 Nonfamily households Margin of Error,1,1,6,9,2, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11693 Households Estimate,1,1,6,9,3, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11693 Households Margin of Error,1,1,6,9,3, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11693 Families Estimate,1,1,6,9,3, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11693 Families Margin of Error,1,1,6,9,3, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11693 Married-couple families Estimate,1,1,6,9,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11693 Married-couple families Margin of Error,1,1,6,9,3, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11693 Nonfamily households Estimate,1,1,6,9,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11693 Nonfamily households Margin of Error,1,1,6,9,3, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11694 Households Estimate,1,1,6,9,4, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11694 Households Margin of Error,1,1,6,9,4, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11694 Families Estimate,1,1,6,9,4, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11694 Families Margin of Error,1,1,6,9,4, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11694 Married-couple families Estimate,1,1,6,9,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11694 Married-couple families Margin of Error,1,1,6,9,4, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11694 Nonfamily households Estimate,1,1,6,9,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11694 Nonfamily households Margin of Error,1,1,6,9,4, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11697 Households Estimate,1,1,6,9,7, ,H,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11697 Households Margin of Error,1,1,6,9,7, ,H,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11697 Families Estimate,1,1,6,9,7, ,F,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11697 Families Margin of Error,1,1,6,9,7, ,F,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11697 Married-couple families Estimate,1,1,6,9,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,E,s,t,i,m,a,t,e
+11697 Married-couple families Margin of Error,1,1,6,9,7, ,M,a,r,r,i,e,d,-,c,o,u,p,l,e, ,f,a,m,i,l,i,e,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
+11697 Nonfamily households Estimate,1,1,6,9,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,E,s,t,i,m,a,t,e
+11697 Nonfamily households Margin of Error,1,1,6,9,7, ,N,o,n,f,a,m,i,l,y, ,h,o,u,s,e,h,o,l,d,s, ,M,a,r,g,i,n, ,o,f, ,E,r,r,o,r
